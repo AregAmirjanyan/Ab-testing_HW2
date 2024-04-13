@@ -1,0 +1,5 @@
+Bandit,Reward,Algorithm
+A Bandit with 1 Win Rate,0.5598819654678916,ThompsonSampling
+A Bandit with 2 Win Rate,2.2769028500272794,ThompsonSampling
+A Bandit with 3 Win Rate,0.0,ThompsonSampling
+A Bandit with 4 Win Rate,3.998595167990794,ThompsonSampling

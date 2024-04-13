@@ -1,0 +1,5 @@
+Bandit,Reward,Algorithm
+A Bandit with 1 Reward,0.5957454137553111,EpsilonGreedy
+A Bandit with 2 Reward,1.2054600935429673,EpsilonGreedy
+A Bandit with 3 Reward,3.0319201693230595,EpsilonGreedy
+A Bandit with 4 Reward,4.00213172334936,EpsilonGreedy
